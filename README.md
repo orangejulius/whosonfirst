@@ -1,4 +1,5 @@
 <p align="center">
+	
   <img height="100" src="https://raw.githubusercontent.com/pelias/design/master/logo/pelias_github/Github_markdown_hero.png">
 </p>
 <h3 align="center">A modular, open-source search engine for our world.</h3>
